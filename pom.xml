@@ -9,8 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Order</module>
-        <module>Stock</module>
+        <module>order</module>
+        <module>stock</module>
+        <module>order-nacos</module>
+        <module>stock-nacos</module>
     </modules>
 
     <parent>
