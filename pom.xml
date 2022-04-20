@@ -12,6 +12,8 @@
         <module>order</module>
         <module>stock</module>
         <module>order-nacos</module>
+        <module>order-ribbon</module>
+        <module>order-loadbalancer</module>
         <module>stock-nacos</module>
     </modules>
 
